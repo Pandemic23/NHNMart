@@ -1,0 +1,11 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓÅàÿÿÿÿÿ8­àò²¥1
+O
+java:S1135"2Complete the task associated to this TODO comment.(Û¾³³8¯àò²¥1
+X
+java:S1854!"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8°àò²¥1
+N
+java:S1135"2Complete the task associated to this TODO comment.(´èÂu8°àò²¥1
+I
+java:S1481!"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8±àò²¥1
+L	java:S106""+Replace this use of System.out by a logger.(„µÃ‡şÿÿÿÿ8±àò²¥1
