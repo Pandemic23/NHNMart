@@ -32,8 +32,7 @@ public class NhnMart {
         for (int i = 0; i < 20; i++) {
             foodStand.add(new Food("사과", 2_000));
         }
-//
-//        }
+        System.out.println("진열완료");
 
     }
 

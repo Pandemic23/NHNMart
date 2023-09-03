@@ -14,6 +14,10 @@ public class FoodStand {
     }
 
 
+    public ArrayList<Food> getFoods() {
+        return foods;
+    }
+
     private final ArrayList<Food> foods = new ArrayList<>();
 
     // TODO add 메서드 구현
@@ -41,6 +45,7 @@ public class FoodStand {
         if (!found) {
             throw new IllegalArgumentException("없는 상품입니다");
         }
+
 
 
 
